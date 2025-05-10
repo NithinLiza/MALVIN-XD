@@ -1,12 +1,12 @@
 {
-  "name": "MALVIN-XD",
+  "name": "𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭",
   "version": "4.0.0",
-  "description": "A WhatsApp Bot Created By Malvin King",
+  "description": "A WhatsApp Bot Created By 𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XD",
-    "stop": "pm2 stop MALVIN-XD",
-    "restart": "pm2 restart MALVIN-XD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name 𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭",
+    "stop": "pm2 stop 𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭",
+    "restart": "pm2 restart 𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
