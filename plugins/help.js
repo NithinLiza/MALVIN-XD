@@ -22,7 +22,7 @@ malvin({
         const runtimeHours = Math.floor(runtimeMilliseconds / (1000 * 60 * 60));
 
         const formattedInfo = `
-╭───  𝙈𝘼𝙇𝙑𝙄𝙉 𝙓𝘿 𝘽𝙊𝙏  ───╮
+╭───  𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭  ───╮
 │  
 │ 👤 *User:* ${pushname}
 │ 🕒 *Time:* ${currentTime}
@@ -128,7 +128,7 @@ Absolutely! Let’s go through each section of the commands:
 > etc
 ---
 
-> 🤖 *Status:* ✅ *Malvin is Alive and Ready!*
+> 🤖 *Status:* ✅ *𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭ is Alive and Ready!*
 🎉 *Enjoy the Service!*
         `.trim();
 
@@ -145,7 +145,7 @@ Absolutely! Let’s go through each section of the commands:
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363398430045533@newsletter',
-                        newsletterName: '𝐌𝐀𝐋𝐕𝐈𝐍 𝐀𝐋𝐈𝐕𝐄',
+                        newsletterName: '𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭',
                         serverMessageId: 143
                     }
                 }
