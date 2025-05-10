@@ -1,7 +1,7 @@
 {
   "name": "𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
-  "logo": "https://files.catbox.moe/qumhu4.jpg",
+  "description": "Javascript WhatsApp bot made by 𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭",
+  "logo": "https://files.catbox.moe/okzx3v.jpeg",
   "keywords": ["𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭"],
   "success_url": "/",
 
@@ -132,13 +132,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/juxfce.jpg"
+      "value": "https://files.catbox.moe/okzx3v.jpeg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐌ᴜᴅͥɪͣʏͫᴀ𝐍🦋✭"
     },
 
       "DELETE_LINKS": {
